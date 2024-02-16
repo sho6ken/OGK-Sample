@@ -1,0 +1,4 @@
+[submodule "assets/framework"]
+	path = assets/framework
+	url = https://github.com/sho6ken/Onion-Game-Kit
+	branch = develop
